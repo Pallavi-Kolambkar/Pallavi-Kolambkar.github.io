@@ -1,0 +1,33 @@
+html {
+  font-size: 10px;   
+  font-family: 'Open Sans', sans-serif; 
+}
+
+h3{
+  color : red;
+  font-size: 60px;
+  text-align: center;
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 3px 3px 1px gray
+}
+
+p{
+  font-size: 16px;
+   color:yellow; 
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  
+  margin: 0 auto;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background: black;
+  padding: 0 20px 20px 20px;
+  
+}
